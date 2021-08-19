@@ -4,3 +4,4 @@ float1 = num1
 for x in range(num2):
     float1 = float1* num1
 print(float1)
+print("bye")
